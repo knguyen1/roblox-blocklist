@@ -24,13 +24,11 @@ lax1-128-116-116-3.roblox.com
 lms.roblox.com
 roblox-api.arkoselabs.com
 abtesting.roblox.com
-abtesting.roblox.com
 gameinternationalization.roblox.com
 badges.roblox.com
 followings.roblox.com
 realtime.roblox.com
 inventory.roblox.com
-assetdelivery.roblox.com
 clientsettingscdn.roblox.com
 t3.rbxcdn.com
 static.rbxcdn.com
