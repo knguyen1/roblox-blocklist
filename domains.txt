@@ -43,3 +43,4 @@ t7.rbxcdn.com
 t0.rbxcdn.com
 c0.rbxcdn.com
 c5.rbxcdn.com
+gold.roblox.com
